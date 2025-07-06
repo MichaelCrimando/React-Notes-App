@@ -1,3 +1,9 @@
+# Setup
+Make sure you're in the root dir of this codebase
+`npm install -g firebase-tools`
+`firebase login`
+`firebase use --add`
+
 # To Build
 `npm run deploy`
 
